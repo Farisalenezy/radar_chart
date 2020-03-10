@@ -1,145 +1,145 @@
-streetAddress,city,borough,state,postalcode,full_address,beds,baths,size_sqft,size_sqft_int,unit,size_sqft_2,size_sqft_2_int,unit_2,price,walk_score,bike_score,price_num
-,,,,,,,,,,,,,,,,,
+streetAddress,city,borough,state,postalcode,full_address,beds,baths,size_sqft,size_sqft_int,unit,size_sqft_2,size_sqft_2_int,unit_2,price,walk_score,bike_score,price_num,crime_rate,complaint_rate
+,,,,,,,,,,,,,,,,,,,
 330 Herzl St,Brooklyn,queens,NY,11212,"330 Herzl St, Brooklyn, NY 11212",8,6,"
  1,600 sqft lot",1600,sqftlot,"
-",,,"$700,000 ",44,58,700000
-,,,,,,,,,,,,,,,,,
+",,,"$700,000 ",44,58,700000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 268 Amboy St,Brooklyn,queens,NY,11212,"268 Amboy St, Brooklyn, NY 11212",3,1.5,"
  1,116 sqft",1116,sqft,"
- 1,800 sqft lot",1800,sqftlot,"$299,000 ",44,58,299000
-,,,,,,,,,,,,,,,,,
+ 1,800 sqft lot",1800,sqftlot,"$299,000 ",44,58,299000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 1892 Strauss St,Brooklyn,queens,NY,11212,"1892 Strauss St, Brooklyn, NY 11212",4,2.5,"
  2,000 sqft lot",2000,sqftlot,"
-",,,"$589,000 ",44,58,589000
-,,,,,,,,,,,,,,,,,
+",,,"$589,000 ",44,58,589000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 459 E 93rd St,Brooklyn,queens,NY,11212,"459 E 93rd St, Brooklyn, NY 11212",4,2,"
  1,505 sqft",1505,sqft,"
- 2,000 sqft lot",2000,sqftlot,"$271,000 ",44,58,271000
-,,,,,,,,,,,,,,,,,
+ 2,000 sqft lot",2000,sqftlot,"$271,000 ",44,58,271000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 527 Saratoga Ave,Brooklyn,queens,NY,11212,"527 Saratoga Ave, Brooklyn, NY 11212",4,2.5,"
  2,000 sqft lot",2000,sqftlot,"
-",,,"$499,000 ",44,58,499000
-,,,,,,,,,,,,,,,,,
+",,,"$499,000 ",44,58,499000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 520 Christopher Ave,Brooklyn,queens,NY,11212,"520 Christopher Ave, Brooklyn, NY 11212",3,2.5,"
  3,108 sqft lot",3108,sqftlot,"
-",,,"$549,000 ",44,58,549000
-,,,,,,,,,,,,,,,,,
+",,,"$549,000 ",44,58,549000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 1579 E New York Ave,Brooklyn,queens,NY,11212,"1579 E New York Ave, Brooklyn, NY 11212",9,3.5,"
  3,260 sqft lot",3260,sqftlot,"
-",,,"$899,000 ",44,58,899000
-,,,,,,,,,,,,,,,,,
+",,,"$899,000 ",44,58,899000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 75 E 94th St,Brooklyn,queens,NY,11212,"75 E 94th St, Brooklyn, NY 11212",7,5,"
  3,000 sqft lot",3000,sqftlot,"
-",,,"$989,000 ",44,58,989000
-,,,,,,,,,,,,,,,,,
+",,,"$989,000 ",44,58,989000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 47 Riverdale Ave,Brooklyn,queens,NY,11212,"47 Riverdale Ave, Brooklyn, NY 11212",5,2.5,"
  2,280 sqft",2280,sqft,"
- 2,005 sqft lot",2005,sqftlot,"$675,000 ",44,58,675000
-,,,,,,,,,,,,,,,,,
+ 2,005 sqft lot",2005,sqftlot,"$675,000 ",44,58,675000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 73 Hertzel St,Brooklyn,queens,NY,11212,"73 Hertzel St, Brooklyn, NY 11212",4,2.5,"
  2,000 sqft lot",2000,sqftlot,"
-",,,"$579,000 ",44,58,579000
-,,,,,,,,,,,,,,,,,
+",,,"$579,000 ",44,58,579000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 754 Saratoga Ave,Brooklyn,queens,NY,11212,"754 Saratoga Ave, Brooklyn, NY 11212",3,1.5,"
  1,116 sqft",1116,sqft,"
- 2,300 sqft lot",2300,sqftlot,"$325,000 ",44,58,325000
-,,,,,,,,,,,,,,,,,
+ 2,300 sqft lot",2300,sqftlot,"$325,000 ",44,58,325000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 122 Dumont Ave,Brooklyn,queens,NY,11212,"122 Dumont Ave, Brooklyn, NY 11212",2,1,"
  1,600 sqft lot",1600,sqftlot,"
-",,,"$299,000 ",44,58,299000
-,,,,,,,,,,,,,,,,,
+",,,"$299,000 ",44,58,299000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 31 E 92nd St,Brooklyn,queens,NY,11212,"31 E 92nd St, Brooklyn, NY 11212",4,2,"
  2,024 sqft",2024,sqft,"
- 2,200 sqft lot",2200,sqftlot,"$499,999 ",44,58,499999
-,,,,,,,,,,,,,,,,,
+ 2,200 sqft lot",2200,sqftlot,"$499,999 ",44,58,499999,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 801 Thomas S Boyland St,Brownville,queens,NY,11212,"801 Thomas S Boyland St, Brownville, NY 11212",7,3,"
  3,180 sqft",3180,sqft,"
- 2,500 sqft lot",2500,sqftlot,"$750,000 ",44,58,750000
-,,,,,,,,,,,,,,,,,
+ 2,500 sqft lot",2500,sqftlot,"$750,000 ",44,58,750000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 553 Saratoga Ave,Brooklyn,queens,NY,11212,"553 Saratoga Ave, Brooklyn, NY 11212",4,1.5,"
  1,640 sqft",1640,sqft,"
- 2,000 sqft lot",2000,sqftlot,"$425,000 ",44,58,425000
-,,,,,,,,,,,,,,,,,
+ 2,000 sqft lot",2000,sqftlot,"$425,000 ",44,58,425000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 285 Rockaway Pkwy,Brooklyn,queens,NY,11212,"285 Rockaway Pkwy, Brooklyn, NY 11212",7,4,"
  3,198 sqft",3198,sqft,"
- 2,750 sqft lot",2750,sqftlot,"$999,000 ",44,58,999000
-,,,,,,,,,,,,,,,,,
+ 2,750 sqft lot",2750,sqftlot,"$999,000 ",44,58,999000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 567 E 96th St,Brooklyn,queens,NY,11212,"567 E 96th St, Brooklyn, NY 11212",7,3,"
  3,000 sqft lot",3000,sqftlot,"
- 2 car",,,"$949,000 ",44,58,949000
-,,,,,,,,,,,,,,,,,
+ 2 car",,,"$949,000 ",44,58,949000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 149 Watkins St,Brooklyn,queens,NY,11212,"149 Watkins St, Brooklyn, NY 11212",9,6,"
  3,750 sqft",3750,sqft,"
- 2,458 sqft lot",2458,sqftlot,"$879,000 ",44,58,879000
-,,,,,,,,,,,,,,,,,
+ 2,458 sqft lot",2458,sqftlot,"$879,000 ",44,58,879000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 509 Bristol St,Brooklyn,queens,NY,11212,"509 Bristol St, Brooklyn, NY 11212",8,5,"
  2,920 sqft",2920,sqft,"
- 2,600 sqft lot",2600,sqftlot,"$899,000 ",44,58,899000
-,,,,,,,,,,,,,,,,,
+ 2,600 sqft lot",2600,sqftlot,"$899,000 ",44,58,899000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 517 Christopher Ave,Brooklyn,queens,NY,11212,"517 Christopher Ave, Brooklyn, NY 11212",3,2,"
  1,116 sqft",1116,sqft,"
- 1,800 sqft lot",1800,sqftlot,"$519,999 ",44,58,519999
-,,,,,,,,,,,,,,,,,
+ 1,800 sqft lot",1800,sqftlot,"$519,999 ",44,58,519999,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 33 Legion St,Brooklyn,queens,NY,11212,"33 Legion St, Brooklyn, NY 11212",3,1.5,"
  1,116 sqft",1116,sqft,"
- 1,800 sqft lot",1800,sqftlot,"$450,000 ",44,58,450000
-,,,,,,,,,,,,,,,,,
+ 1,800 sqft lot",1800,sqftlot,"$450,000 ",44,58,450000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 497 E 94th St,Brooklyn,queens,NY,11212,"497 E 94th St, Brooklyn, NY 11212",5,2,"
  2,000 sqft lot",2000,sqftlot,"
-",,,"$499,000 ",44,58,499000
-,,,,,,,,,,,,,,,,,
+",,,"$499,000 ",44,58,499000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 2044 Strauss St,Brooklyn,queens,NY,11212,"2044 Strauss St, Brooklyn, NY 11212",7,2,"
  2,240 sqft",2240,sqft,"
- 2,500 sqft lot",2500,sqftlot,"$425,000 ",44,58,425000
-,,,,,,,,,,,,,,,,,
+ 2,500 sqft lot",2500,sqftlot,"$425,000 ",44,58,425000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 665 Mother Gaston Blvd,Brooklyn,queens,NY,11212,"665 Mother Gaston Blvd, Brooklyn, NY 11212",3,2.5,"
  1,800 sqft lot",1800,sqftlot,"
-",,,"$469,000 ",44,58,469000
-,,,,,,,,,,,,,,,,,
+",,,"$469,000 ",44,58,469000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 604 Sackman St,Brooklyn,queens,NY,11212,"604 Sackman St, Brooklyn, NY 11212",2,1,"
  1,742 sqft lot",1742,sqftlot,"
-",,,"$300,000 ",44,58,300000
-,,,,,,,,,,,,,,,,,
+",,,"$300,000 ",44,58,300000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 1164 Lenox Rd,Brooklyn,queens,NY,11212,"1164 Lenox Rd, Brooklyn, NY 11212",8,5.5,"
  3,198 sqft",3198,sqft,"
- 2,500 sqft lot",2500,sqftlot,"$750,000 ",44,58,750000
-,,,,,,,,,,,,,,,,,
+ 2,500 sqft lot",2500,sqftlot,"$750,000 ",44,58,750000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 486 E 95th St,Brooklyn,queens,NY,11212,"486 E 95th St, Brooklyn, NY 11212",8,4,"
  3,608 sqft",3608,sqft,"
- 3,000 sqft lot",3000,sqftlot,"$490,000 ",44,58,490000
-,,,,,,,,,,,,,,,,,
+ 3,000 sqft lot",3000,sqftlot,"$490,000 ",44,58,490000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 591 Powell St,Brooklyn,queens,NY,11212,"591 Powell St, Brooklyn, NY 11212",4,1.5,"
  1,148 sqft",1148,sqft,"
- 1,800 sqft lot",1800,sqftlot,"$525,000 ",44,58,525000
-,,,,,,,,,,,,,,,,,
+ 1,800 sqft lot",1800,sqftlot,"$525,000 ",44,58,525000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 Withheld St,Brooklyn,queens,NY,11212,"Withheld St, Brooklyn, NY 11212",3,1,"
  1,400 sqft",1400,sqft,"
- 2,000 sqft lot",2000,sqftlot,"$465,000 ",44,58,465000
-,,,,,,,,,,,,,,,,,
+ 2,000 sqft lot",2000,sqftlot,"$465,000 ",44,58,465000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 ,Brooklyn,queens,NY,11212,", Brooklyn, NY 11212",10,3.5,"
  2,600 sqft lot",2600,sqftlot,"
-",,,"$675,000 ",44,58,675000
-,,,,,,,,,,,,,,,,,
+",,,"$675,000 ",44,58,675000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 1166 E New York Ave,Brooklyn,queens,NY,11212,"1166 E New York Ave, Brooklyn, NY 11212",7,5,"
  3,280 sqft",3280,sqft,"
- 2,731 sqft lot",2731,sqftlot,"$988,000 ",44,58,988000
-,,,,,,,,,,,,,,,,,
+ 2,731 sqft lot",2731,sqftlot,"$988,000 ",44,58,988000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 526 Thomas S Boyland St,Brooklyn,queens,NY,11212,"526 Thomas S Boyland St, Brooklyn, NY 11212",3,1.5,"
  1,340 sqft",1340,sqft,"
- 2,000 sqft lot",2000,sqftlot,"$419,900 ",44,58,419900
-,,,,,,,,,,,,,,,,,
+ 2,000 sqft lot",2000,sqftlot,"$419,900 ",44,58,419900,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 ,Brooklyn,queens,NY,11212,", Brooklyn, NY 11212",16,10,"
  6,375 sqft",6375,sqft,"
- 2,500 sqft lot",2500,sqftlot,"$1,788,000 ",44,58,1788000
-,,,,,,,,,,,,,,,,,
+ 2,500 sqft lot",2500,sqftlot,"$1,788,000 ",44,58,1788000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 199 E 95th St,Brooklyn,queens,NY,11212,"199 E 95th St, Brooklyn, NY 11212",7,4,"
  3,250 sqft lot",3250,sqftlot,"
-",,,"$1,075,000 ",44,58,1075000
-,,,,,,,,,,,,,,,,,
+",,,"$1,075,000 ",44,58,1075000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 199 E 95th St,Brooklyn,queens,NY,11212,"199 E 95th St, Brooklyn, NY 11212",7,4,"
  3,250 sqft lot",3250,sqftlot,"
- yes car",,,"$1,075,000 ",44,58,1075000
-,,,,,,,,,,,,,,,,,
+ yes car",,,"$1,075,000 ",44,58,1075000,5.882352941,2.722398195
+,,,,,,,,,,,,,,,,,,,
 421 Herzl St,Brownville,queens,NY,11212,"421 Herzl St, Brownville, NY 11212",8,4,"
  2,500 sqft lot",2500,sqftlot,"
-",,,"$579,000 ",44,58,579000
+",,,"$579,000 ",44,58,579000,5.882352941,2.722398195
